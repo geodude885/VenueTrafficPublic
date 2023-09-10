@@ -4,7 +4,7 @@
         "Name": "Venue Traffic",
         "Description": "Venue Traffic - effectively, a battle pass",
         "InternalName": "VenueTraffic",
-        "AssemblyVersion": "0.0.0.1",
+        "AssemblyVersion": "1.0.0.1",
         "RepoUrl": "https://github.com/geodude885/VenueTrafficPublic",
         "ApplicableVersion": "any",
         "Tags": [
@@ -12,13 +12,13 @@
             "venue",
             "discord"
         ],
-        "DalamudApiLevel": 6,
+        "DalamudApiLevel": 8,
         "DownloadLinkInstall": "https://github.com/geodude885/VenueTrafficPublic/blob/main/VenueTraffic/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/geodude885/VenueTrafficPublic/blob/main/VenueTraffic/latest.zip",
         "DownloadLinkUpdate": "https://github.com/geodude885/VenueTrafficPublic/blob/main/VenueTraffic/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "0000000000"
+        "LastUpdated": "1657534680"
     }
 ]
