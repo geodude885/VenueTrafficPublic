@@ -26,7 +26,7 @@
         "Name": "ChocoboRacer",
         "Description": "Chocobo Racer - a chocobo racing plugin!",
         "InternalName": "ChocoboRacer",
-        "AssemblyVersion": "1.0.0.3",
+        "AssemblyVersion": "1.0.0.4",
         "RepoUrl": "https://github.com/geodude885/VenueTrafficPublic",
         "ApplicableVersion": "any",
         "Tags": [
@@ -35,14 +35,14 @@
             "minigames",
             "discord"
         ],
-        "DalamudApiLevel": 8,
+        "DalamudApiLevel": 9,
         "DownloadLinkInstall": "https://github.com/geodude885/VenueTrafficPublic/raw/main/ChocoboRacer/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/geodude885/VenueTrafficPublic/raw/main/ChocoboRacer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/geodude885/VenueTrafficPublic/raw/main/ChocoboRacer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1657534683"
+        "LastUpdated": "1657534684"
     }
 
 ]

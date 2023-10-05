@@ -10,9 +10,10 @@
     "venues",
     "discord"
   ],
-  "DalamudApiLevel": 8,
+  "DalamudApiLevel": 9,
   "LoadRequiredState": 0,
   "LoadSync": false,
+  "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "A plugin for raching chocobos!",
   "AcceptsFeedback": true
