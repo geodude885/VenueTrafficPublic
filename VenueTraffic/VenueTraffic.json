@@ -3,16 +3,17 @@
   "Name": "Venue Traffic",
   "InternalName": "VenueTraffic",
   "AssemblyVersion": "0.0.0.1",
-  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+  "Description": "Open the main window using /venuetraff",
   "ApplicableVersion": "any",
   "Tags": [
-    "sample",
-    "plugin",
-    "goats"
+    "player",
+    "venues",
+    "discord"
   ],
-  "DalamudApiLevel": 8,
+  "DalamudApiLevel": 9,
   "LoadRequiredState": 0,
   "LoadSync": false,
+  "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "A plugin which looks at who's in a venue and for how long.",
   "AcceptsFeedback": true
